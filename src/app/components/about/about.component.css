@@ -1,0 +1,27 @@
+.head{
+
+    text-transform: uppercase;
+    text-shadow: 25px;
+    
+    }
+.body{
+    background-color: rgb(243, 17, 17);
+    background: -moz-element(black);
+    
+    }
+.d-inline-block{
+    max-width: 100%;
+    display: relative;
+    margin-left: 60px;
+    margin-right: auto;
+    width: auto;
+    margin-top: -140px;
+
+}
+.h1{
+  text-overflow: ellipsis;
+  text-decoration-line: overline;
+  text-decoration: double;
+  background-color: blue;
+
+}
